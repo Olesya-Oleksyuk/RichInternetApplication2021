@@ -51,11 +51,11 @@ namespace ToDoListWeb
             {
                 spa.Options.SourcePath = "ClientApp";
 
-
+                // ASP.NET Core Kestrel сервер внутренне передает файлы SPA через прокси-сервер на сервер разработки Angular.
                 if (env.IsDevelopment())
                 {
                     spa.Options.StartupTimeout =   TimeSpan.FromSeconds(120);
-                    spa.UseAngularCliServer(npmScript: "start");
+                    spa.UseProxyToSpaDevelopmentServer("http://localhost:4200");
                 }
             });
 
