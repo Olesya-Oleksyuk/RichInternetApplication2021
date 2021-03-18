@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ToDoListWeb
+namespace ToDoList.Web
 {
     public class Startup
     {
@@ -46,16 +46,18 @@ namespace ToDoListWeb
             app.UseRouting();
 
             app.UseAuthorization();
+           
+            Guid param = Guid.NewGuid();
 
             app.UseSpa(spa =>
             {
                 spa.Options.SourcePath = "ClientApp";
 
-
+                // ASP.NET Core Kestrel сервер внутренне передает файлы SPA через прокси-сервер на сервер разработки Angular.
                 if (env.IsDevelopment())
                 {
                     spa.Options.StartupTimeout =   TimeSpan.FromSeconds(120);
-                    spa.UseAngularCliServer(npmScript: "start");
+                    spa.UseProxyToSpaDevelopmentServer("http://localhost:4200");
                 }
             });
 

@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ToDoListWeb/1.0.0": {
+      "ToDoList.Web/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.SpaServices.Extensions": "3.1.12",
           "Microsoft.TypeScript.MSBuild": "4.2.3",
@@ -295,10 +295,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "ToDoListWeb.dll": {}
+          "ToDoList.Web.dll": {}
         },
         "compile": {
-          "ToDoListWeb.dll": {}
+          "ToDoList.Web.dll": {}
         }
       },
       "Microsoft.AspNetCore.NodeServices/3.1.12": {
@@ -2171,7 +2171,7 @@
     }
   },
   "libraries": {
-    "ToDoListWeb/1.0.0": {
+    "ToDoList.Web/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
