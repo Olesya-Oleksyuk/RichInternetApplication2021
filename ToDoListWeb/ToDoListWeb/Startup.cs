@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ToDoListWeb
+namespace ToDoList.Web
 {
     public class Startup
     {
@@ -46,6 +46,8 @@ namespace ToDoListWeb
             app.UseRouting();
 
             app.UseAuthorization();
+           
+            Guid param = Guid.NewGuid();
 
             app.UseSpa(spa =>
             {
