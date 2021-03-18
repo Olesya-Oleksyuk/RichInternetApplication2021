@@ -677,7 +677,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\ToDoListWeb.csproj",
-      "projectName": "ToDoListWeb",
+      "projectName": "ToDoList.Web",
       "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\ToDoListWeb.csproj",
       "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\obj\\",

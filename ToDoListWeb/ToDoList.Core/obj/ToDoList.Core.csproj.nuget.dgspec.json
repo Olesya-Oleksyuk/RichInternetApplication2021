@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\ToDoListWeb.csproj": {}
+    "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\ToDoListWeb.csproj": {
+    "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\ToDoListWeb.csproj",
-        "projectName": "ToDoList.Web",
-        "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\ToDoListWeb.csproj",
+        "projectUniqueName": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj",
+        "projectName": "ToDoList.Core",
+        "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj",
         "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\obj\\",
+        "outputPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -44,18 +44,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.AspNetCore.SpaServices.Extensions": {
-              "target": "Package",
-              "version": "[3.1.12, )"
-            },
-            "Microsoft.TypeScript.MSBuild": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[4.2.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -67,9 +55,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

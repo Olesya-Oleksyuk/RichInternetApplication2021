@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ToDoListWeb")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ToDoList.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ToDoListWeb")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ToDoListWeb")]
+[assembly: System.Reflection.AssemblyProductAttribute("ToDoList.Web")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ToDoList.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
