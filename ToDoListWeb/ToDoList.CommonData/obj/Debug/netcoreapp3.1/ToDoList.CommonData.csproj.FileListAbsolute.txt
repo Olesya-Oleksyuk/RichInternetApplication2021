@@ -1,0 +1,9 @@
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\bin\Debug\netcoreapp3.1\ToDoList.CommonData.deps.json
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\bin\Debug\netcoreapp3.1\ToDoList.CommonData.dll
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\bin\Debug\netcoreapp3.1\ToDoList.CommonData.pdb
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.csprojAssemblyReference.cache
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.AssemblyInfo.cs
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.dll
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.pdb

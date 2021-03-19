@@ -14,5 +14,7 @@ namespace ToDoList.Core.Entities
         public DateTime DateCreated { get; set; }
         public string Title { get; set; }
         public Guid UserId { get; set; }
+        public User User { get; set; }
+        public List<NoteItem> NoteItems { get; set; } = new List<NoteItem>();
     }
 }

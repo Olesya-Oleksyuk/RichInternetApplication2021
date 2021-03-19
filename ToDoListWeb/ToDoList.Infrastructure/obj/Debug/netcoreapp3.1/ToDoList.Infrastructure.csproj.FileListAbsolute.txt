@@ -1,0 +1,12 @@
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Infrastructure.deps.json
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Infrastructure.runtimeconfig.json
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Infrastructure.runtimeconfig.dev.json
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Infrastructure.dll
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Infrastructure.pdb
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.csprojAssemblyReference.cache
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.AssemblyInfo.cs
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.dll
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.pdb
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.genruntimeconfig.cache

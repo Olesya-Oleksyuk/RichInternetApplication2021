@@ -58,3 +58,4 @@ C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList
 C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoListWeb\obj\Debug\netcoreapp3.1\ToDoList.Web.Views.pdb
 C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoListWeb\obj\Debug\netcoreapp3.1\ToDoList.Web.dll
 C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoListWeb\obj\Debug\netcoreapp3.1\ToDoList.Web.pdb
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoListWeb\obj\Debug\netcoreapp3.1\ToDoListWeb.csprojAssemblyReference.cache
