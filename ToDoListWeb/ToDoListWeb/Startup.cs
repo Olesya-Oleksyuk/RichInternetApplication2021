@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.SpaServices.AngularCli;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -8,6 +9,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ToDoList.Application.Interfaces;
+using ToDoList.Application.Services;
+using ToDoList.Core.Configuration;
+using ToDoList.Core.Repositories;
+using ToDoList.Infrastructure.Data;
+using ToDoList.Infrastructure.Repositories;
 
 namespace ToDoList.Web
 {
@@ -23,11 +30,35 @@ namespace ToDoList.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            ConfigureAspnetRunServices(services);
             services.AddControllersWithViews();
             services.AddSpaStaticFiles(configuration =>
             {
                 configuration.RootPath = "ClientApp/dist";
             });
+        }
+        public void ConfigureDatabases(IServiceCollection services)
+        {
+            
+                services.AddDbContext<BaseProjectContext>(c =>
+                  c.UseSqlServer(Configuration.GetConnectionString("BaseProjectConnection"), b => b.MigrationsAssembly("ToDoList.Web").UseNetTopologySuite()));
+            
+        }
+        private void ConfigureAspnetRunServices(IServiceCollection services)
+        {
+            #region Add Core Layer
+            services.Configure<BaseProjectSettings>(Configuration);
+            #endregion
+            ConfigureDatabases(services);
+            #region Add Infrastructure Layer
+            services.AddScoped(typeof(INoteItemRepository), typeof(NoteItemRepository));
+            services.AddScoped(typeof(INoteRepository), typeof(NoteRepository));
+            services.AddScoped(typeof(IUserRepository), typeof(UserRepository));
+            #endregion
+            #region Add Application Layer
+            services.AddScoped(typeof(INoteService), typeof(NoteService));
+            #endregion
+            services.AddAutoMapper(typeof(Startup)); // Add AutoMapper
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -41,6 +72,7 @@ namespace ToDoList.Web
             {
                 app.UseExceptionHandler("/Home/Error");
             }
+
             app.UseStaticFiles();
 
             app.UseRouting();

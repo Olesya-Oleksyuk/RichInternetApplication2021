@@ -12,7 +12,7 @@ using static ToDoList.CommonData.CommonData;
 
 namespace ToDoList.Infrastructure.Repositories
 {
-    class NoteItemRepository : Repository<NoteItem>, INoteItemRepository
+    public class NoteItemRepository : Repository<NoteItem>, INoteItemRepository
     {
         public NoteItemRepository(BaseProjectContext dbContext) : base(dbContext)
         {
