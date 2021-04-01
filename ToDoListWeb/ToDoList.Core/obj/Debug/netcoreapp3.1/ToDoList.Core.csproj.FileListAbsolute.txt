@@ -1,16 +1,3 @@
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.deps.json
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.dll
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.pdb
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.AssemblyInfoInputs.cache
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.AssemblyInfo.cs
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csproj.CoreCompileInputs.cache
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.dll
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.pdb
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.CommonData.dll
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csprojAssemblyReference.cache
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.CommonData.pdb
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
-C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csproj.CopyComplete
 E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.deps.json
 E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.dll
 E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.pdb
@@ -24,3 +11,16 @@ E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList
 E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csproj.CopyComplete
 E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.dll
 E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.pdb
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csprojAssemblyReference.cache
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.AssemblyInfo.cs
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.deps.json
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.dll
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.pdb
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.CommonData.dll
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.CommonData.pdb
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csproj.CopyComplete
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.dll
+C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.pdb

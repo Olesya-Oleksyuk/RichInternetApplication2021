@@ -670,19 +670,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Professional\\.nuget\\packages\\": {}
+    "C:\\Users\\devel\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\ToDoListWeb.csproj",
+      "projectUniqueName": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\ToDoListWeb.csproj",
       "projectName": "ToDoList.Web",
-      "projectPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\ToDoListWeb.csproj",
-      "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-      "outputPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\obj\\",
+      "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\ToDoListWeb.csproj",
+      "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoListWeb\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\devel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -690,6 +694,7 @@
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\FastReports\\FastReport.Net\\Nugets": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -738,7 +743,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

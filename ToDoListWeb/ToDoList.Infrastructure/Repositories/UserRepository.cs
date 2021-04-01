@@ -13,6 +13,7 @@ namespace ToDoList.Infrastructure.Repositories
     {
         public UserRepository(BaseProjectContext dbContext) : base(dbContext)
         {
+          
         }
 
         public async Task<User> AddUser(User user)

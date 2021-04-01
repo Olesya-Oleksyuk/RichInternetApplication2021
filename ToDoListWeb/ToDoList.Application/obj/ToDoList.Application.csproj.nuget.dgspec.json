@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Application\\ToDoList.Application.csproj": {}
+    "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Application\\ToDoList.Application.csproj": {}
   },
   "projects": {
-    "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Application\\ToDoList.Application.csproj": {
+    "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Application\\ToDoList.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Application\\ToDoList.Application.csproj",
+        "projectUniqueName": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Application\\ToDoList.Application.csproj",
         "projectName": "ToDoList.Application",
-        "projectPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Application\\ToDoList.Application.csproj",
-        "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Application\\obj\\",
+        "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Application\\ToDoList.Application.csproj",
+        "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -22,6 +25,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net\\Nugets": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -29,14 +33,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj": {
-                "projectPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj"
+              "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj": {
+                "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj"
               },
-              "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj": {
-                "projectPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj"
+              "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj": {
+                "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj"
               },
-              "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
-                "projectPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj"
+              "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj"
               }
             }
           }
@@ -71,21 +75,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj": {
+    "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj",
+        "projectUniqueName": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj",
         "projectName": "ToDoList.CommonData",
-        "projectPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj",
-        "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\obj\\",
+        "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj",
+        "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -93,6 +100,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net\\Nugets": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -126,21 +134,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj": {
+    "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj",
+        "projectUniqueName": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj",
         "projectName": "ToDoList.Core",
-        "projectPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj",
-        "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\obj\\",
+        "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj",
+        "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -148,6 +159,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net\\Nugets": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -155,8 +167,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj": {
-                "projectPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj"
+              "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj": {
+                "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.CommonData\\ToDoList.CommonData.csproj"
               }
             }
           }
@@ -191,21 +203,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
+    "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj",
         "projectName": "ToDoList.Infrastructure",
-        "projectPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-        "outputPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\devel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\devel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -213,6 +228,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\FastReports\\FastReport.Net\\Nugets": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -220,8 +236,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj": {
-                "projectPath": "E:\\workplace\\University\\New try\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj"
+              "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj": {
+                "projectPath": "C:\\Users\\devel\\Documents\\GitHub\\RichInternetApplication2021\\ToDoListWeb\\ToDoList.Core\\ToDoList.Core.csproj"
               }
             }
           }
@@ -276,7 +292,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
