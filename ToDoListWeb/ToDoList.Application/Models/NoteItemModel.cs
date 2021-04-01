@@ -15,6 +15,9 @@ namespace ToDoList.Application.Models
         public string NoteContent { get; set; }
         public string NoteDescription { get; set; }
         public int NoteIndex { get; set; }
+        /// <summary>
+        /// Статус
+        /// </summary>
         public StatusType Status { get; set; }
         public Guid NoteId { get; set; }
 
