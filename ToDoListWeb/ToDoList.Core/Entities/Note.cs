@@ -16,5 +16,15 @@ namespace ToDoList.Core.Entities
         public Guid UserId { get; set; }
         public User User { get; set; }
         public List<NoteItem> NoteItems { get; set; } = new List<NoteItem>();
+
+        public static Note Create(DateTime DateCreated, string Title, Guid UserId)
+        {
+            return new Note()
+            {
+                DateCreated = DateCreated,
+                Title = Title,
+                UserId = UserId
+            };
+        }
     }
 }
