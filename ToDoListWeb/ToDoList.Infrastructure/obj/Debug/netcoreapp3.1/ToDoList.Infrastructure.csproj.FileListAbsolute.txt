@@ -10,3 +10,20 @@ C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList
 C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.dll
 C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.pdb
 C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.genruntimeconfig.cache
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Infrastructure.deps.json
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Infrastructure.runtimeconfig.json
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Infrastructure.runtimeconfig.dev.json
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Infrastructure.dll
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Infrastructure.pdb
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.CommonData.dll
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Core.dll
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.Core.pdb
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\bin\Debug\netcoreapp3.1\ToDoList.CommonData.pdb
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.csprojAssemblyReference.cache
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.AssemblyInfoInputs.cache
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.AssemblyInfo.cs
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.csproj.CoreCompileInputs.cache
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.csproj.CopyComplete
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.dll
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.pdb
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.Infrastructure\obj\Debug\netcoreapp3.1\ToDoList.Infrastructure.genruntimeconfig.cache

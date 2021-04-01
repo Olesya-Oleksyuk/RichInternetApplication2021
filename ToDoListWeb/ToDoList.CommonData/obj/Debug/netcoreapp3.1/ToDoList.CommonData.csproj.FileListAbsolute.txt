@@ -7,3 +7,12 @@ C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList
 C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.csproj.CoreCompileInputs.cache
 C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.dll
 C:\Users\devel\Documents\GitHub\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.pdb
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\bin\Debug\netcoreapp3.1\ToDoList.CommonData.deps.json
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\bin\Debug\netcoreapp3.1\ToDoList.CommonData.dll
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\bin\Debug\netcoreapp3.1\ToDoList.CommonData.pdb
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.csprojAssemblyReference.cache
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.AssemblyInfoInputs.cache
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.AssemblyInfo.cs
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.csproj.CoreCompileInputs.cache
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.dll
+E:\workplace\University\New try\RichInternetApplication2021\ToDoListWeb\ToDoList.CommonData\obj\Debug\netcoreapp3.1\ToDoList.CommonData.pdb

@@ -16,5 +16,12 @@ namespace ToDoList.Core.Repositories
         /// <returns></returns>
         Task<Note> AddNote(Note Note);
 
+        /// <summary>
+        /// Поиск to-do листа по заголовку 
+        /// </summary>
+        /// <param name="Title"></param>
+        /// <returns></returns>
+        Task<List<Note>> FindNotes(string Title);
+
     }
 }
