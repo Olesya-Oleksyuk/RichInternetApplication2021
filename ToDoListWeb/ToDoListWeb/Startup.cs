@@ -32,6 +32,7 @@ namespace ToDoList.Web
         {
             ConfigureAspnetRunServices(services);
             services.AddControllersWithViews();
+           
             services.AddSpaStaticFiles(configuration =>
             {
                 configuration.RootPath = "ClientApp/dist";
@@ -80,7 +81,10 @@ namespace ToDoList.Web
             app.UseAuthorization();
            
             Guid param = Guid.NewGuid();
-
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
             app.UseSpa(spa =>
             {
                 spa.Options.SourcePath = "ClientApp";
@@ -90,15 +94,16 @@ namespace ToDoList.Web
                 {
                     spa.Options.StartupTimeout =   TimeSpan.FromSeconds(120);
                     spa.UseProxyToSpaDevelopmentServer("http://localhost:4200");
+                    //spa.UseAngularCliServer(npmScript: "start");
                 }
             });
 
-            //app.UseEndpoints(endpoints =>
-            //{
-            //    endpoints.MapControllerRoute(
-            //        name: "default",
-            //        pattern: "{controller=Home}/{action=Index}/{id?}");
-            //});
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
+            });
         }
     }
 }
