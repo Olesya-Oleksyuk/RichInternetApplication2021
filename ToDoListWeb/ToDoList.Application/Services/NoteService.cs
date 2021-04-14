@@ -10,7 +10,7 @@ using ToDoList.Core.Repositories;
 
 namespace ToDoList.Application.Services
 {
-    public class NoteService:INoteService
+    public class NoteService: INoteService
     {
         private readonly INoteRepository _noteRepository;
         public NoteService(INoteRepository noteRepository)
@@ -37,6 +37,18 @@ namespace ToDoList.Application.Services
                     Error = exp
                 };
             }
+        }
+
+        public async Task<List<NoteModel>> GetNotes()
+        {
+            var data = await _noteRepository.GetNotes();
+            List<NoteModel> mappedEntityToModel = new List<NoteModel>();
+            foreach (var item in data)
+            {
+                var noteModel = ObjectMapper.Mapper.Map<NoteModel>(item);
+                mappedEntityToModel.Add(noteModel);
+            }
+            return mappedEntityToModel;
         }
     }
 }

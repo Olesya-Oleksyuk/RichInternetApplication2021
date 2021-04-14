@@ -58,6 +58,8 @@ namespace ToDoList.Web
             #endregion
             #region Add Application Layer
             services.AddScoped(typeof(INoteService), typeof(NoteService));
+            services.AddScoped(typeof(INoteItemService), typeof(NoteItemService));
+            services.AddScoped(typeof(IUserService), typeof(UserService));
             #endregion
             services.AddAutoMapper(typeof(Startup)); // Add AutoMapper
         }

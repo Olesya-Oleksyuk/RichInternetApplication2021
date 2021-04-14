@@ -8,20 +8,20 @@ import { NoteModel } from './noteModel';
 })
 export class AppComponent implements OnInit {
     note: NoteModel = new NoteModel();   // изменяемое примечание
-    notes: NoteModel[];                // массив примечаниq
+    notes: NoteModel[];                // массив примечаний
     tableMode: boolean = true;          // табличный режим
 
     constructor(private dataService: DataService) { }
 
     ngOnInit() {
-        //this.loadProducts();    // загрузка данных при старте компонента  
+        this.loadProducts();    // загрузка данных при старте компонента  
     }
-    // получаем данные через сервис
-    //loadProducts() {
-    //    this.dataService.getProducts()
-    //        .subscribe((data: Product[]) => this.products = data);
-    //}
-    // сохранение данных
+     // получаем данные через сервис
+    loadProducts() {
+        this.dataService.getNotes()
+            .subscribe((data: NoteModel[]) => this.notes = data);
+    }
+     //сохранение данных
     save() {
         if (this.note.Id == null) {
             this.dataService.createNote(this.note)

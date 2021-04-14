@@ -23,5 +23,7 @@ namespace ToDoList.Core.Repositories
         /// <returns></returns>
         Task<List<Note>> FindNotes(string Title);
 
+        Task<IReadOnlyList<Note>> GetNotes();
+
     }
 }

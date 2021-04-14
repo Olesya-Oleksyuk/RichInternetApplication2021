@@ -14,14 +14,14 @@ let AppComponent = class AppComponent {
         this.tableMode = true; // табличный режим
     }
     ngOnInit() {
-        //this.loadProducts();    // загрузка данных при старте компонента  
+        this.loadProducts(); // загрузка данных при старте компонента  
     }
     // получаем данные через сервис
-    //loadProducts() {
-    //    this.dataService.getProducts()
-    //        .subscribe((data: Product[]) => this.products = data);
-    //}
-    // сохранение данных
+    loadProducts() {
+        this.dataService.getNotes()
+            .subscribe((data) => this.notes = data);
+    }
+    //сохранение данных
     save() {
         if (this.note.Id == null) {
             this.dataService.createNote(this.note)

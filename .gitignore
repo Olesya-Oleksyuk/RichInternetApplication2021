@@ -1,4 +1,6 @@
-
+bin/
+ToDoListWeb/ToDoListWeb/bin
+ToDoListWeb/ToDoListWeb.Application/bin
 ToDoListWeb/.vs/ToDoListWeb/v16/.suo
 ToDoListWeb/ToDoList.Application/bin/Debug/netcoreapp3.1/ToDoList.Application.dll
 ToDoListWeb/ToDoList.Application/bin/Debug/netcoreapp3.1/ToDoList.Application.pdb
@@ -60,3 +62,36 @@ ToDoListWeb/ToDoListWeb/obj/Debug/netcoreapp3.1/ToDoList.Web.dll
 ToDoListWeb/ToDoListWeb/obj/Debug/netcoreapp3.1/ToDoList.Web.pdb
 ToDoListWeb/ToDoListWeb/obj/Debug/netcoreapp3.1/ToDoList.Web.Views.dll
 ToDoListWeb/ToDoListWeb/obj/Debug/netcoreapp3.1/ToDoList.Web.Views.pdb
+ToDoListWeb/ToDoListWeb/appsettings.json
+ToDoListWeb/ToDoListWeb/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+
+### Angular ###
+## Angular ##
+# compiled output
+dist/
+tmp/
+app/**/*.js
+app/**/*.js.map
+
+# dependencies
+node_modules/
+bower_components/
+
+# IDEs and editors
+.idea/
+
+# misc
+.sass-cache/
+connect.lock/
+coverage/
+libpeerconnection.log/
+npm-debug.log
+testem.log
+typings/
+
+# e2e
+e2e/*.js
+e2e/*.map
+
+# System Files
+.DS_Store/

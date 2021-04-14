@@ -44,5 +44,11 @@ namespace ToDoListWeb.Controllers
         {
             return await _noteService.AddNote(model);
         }
+
+        [HttpGet]
+        public async Task<List<NoteModel>> GetNotes()
+        {
+            return await _noteService.GetNotes();
+        }
     }
 }

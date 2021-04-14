@@ -11,7 +11,7 @@ export class DataService {
     }
 
     getNotes() {
-        return this.http.get(this.url);
+        return this.http.get(this.url + '/GetNotes');
     }
 
     getNote(id: number) {

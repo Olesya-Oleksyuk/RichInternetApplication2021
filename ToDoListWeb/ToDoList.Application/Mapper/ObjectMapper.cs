@@ -27,7 +27,11 @@ namespace ToDoList.Application.Mapper
 		public AspnetRunDtoMapper()
 		{
 			CreateMap<Note, NoteModel>()
-			.ReverseMap();
+				.ReverseMap();
+			CreateMap<NoteItem, NoteItemModel>()
+				.ReverseMap();
+			CreateMap<User, UserModel>()
+				.ReverseMap();
 		}
 	}
 }

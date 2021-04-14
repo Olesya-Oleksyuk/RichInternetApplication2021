@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using ToDoList.Application.Models.Base;
 
 namespace ToDoList.Application.Models
 {
-    class UserModel
+    public class UserModel: BaseModel
     {
         public UserModel()
         {

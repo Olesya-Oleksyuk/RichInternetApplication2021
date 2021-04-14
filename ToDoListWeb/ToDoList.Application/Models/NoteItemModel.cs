@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using ToDoList.Application.Models.Base;
 using static ToDoList.CommonData.CommonData;
 
 namespace ToDoList.Application.Models
 {
-    class NoteItemModel
+    public class NoteItemModel: BaseModel
     {
         public NoteItemModel()
         {

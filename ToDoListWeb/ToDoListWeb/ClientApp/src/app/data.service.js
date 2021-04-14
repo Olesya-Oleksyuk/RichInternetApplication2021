@@ -11,7 +11,7 @@ let DataService = class DataService {
         this.url = "/home";
     }
     getNotes() {
-        return this.http.get(this.url);
+        return this.http.get(this.url + '/GetNotes');
     }
     getNote(id) {
         return this.http.get(this.url + '/' + id);

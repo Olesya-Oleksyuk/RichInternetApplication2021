@@ -20,6 +20,11 @@ namespace ToDoList.Infrastructure.Repositories
             return await AddAsync(Note);
         }
 
+        public async Task<IReadOnlyList<Note>> GetNotes()
+        {
+            return await GetAllAsync();
+        }
+
         public async Task<List<Note>> FindNotes(string Title)
         {
             return await _dbContext.Notes.

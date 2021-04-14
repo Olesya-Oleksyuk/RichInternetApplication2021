@@ -6,9 +6,8 @@ using ToDoList.Application.Models;
 
 namespace ToDoList.Application.Interfaces
 {
-    public interface INoteService
+    public interface IUserService
     {
-        Task<NoteModel> AddNote(NoteModel NoteModel);
-        Task<List<NoteModel>> GetNotes();
+        Task<UserModel> AddUser(UserModel UserModel);
     }
 }
